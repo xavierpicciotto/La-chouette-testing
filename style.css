@@ -677,7 +677,17 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 20px;
+}
+.client {
+    display: inline-flex;
+    font-size: large;
+    color: #898989;
+}
+.text--size {
+    font-size: 25px;
+    margin-top: 2%;
+    margin-bottom: 2%;
 }
 
 .tight-width-whitespace {
